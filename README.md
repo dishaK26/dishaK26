@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Disha 👋
 
-<!--
-**dishaK26/dishaK26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BTech CSE Pre-final Year Student**  
+🔍 Passionate about **Data Science** & **Data Analysis**  
+📊 Skilled with:  
+• Numpy  **Data Analysis**
+• Pandas  
+• Matplotlib  
+• Seaborn  
+🧮 Currently exploring: **Statistics** and **Machine Learning**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+- **Netflix Revenue Data Analysis**  
+  *A deep dive into Netflix's revenue trends using Python and data analytics libraries (Numpy, Pandas, Matplotlib, Seaborn).*
+
+- **Python Practice Projects**  
+  *A collection of diverse Python mini-projects, sharpening core concepts and logic.*
+
+---
+
+## 📈 What I'm Learning
+
+Currently focused on expanding my understanding of statistical methods and machine learning algorithms, taking data-driven insights to the next level!
+
+---
+If you are in the same journey lets connect over X-@dk_tweets0
+
+Thanks for stopping by! 😊
