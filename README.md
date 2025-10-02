@@ -3,11 +3,10 @@
 🎓 **BTech CSE Pre-final Year Student**  
 🔍 Passionate about **Data Science** & **Data Analysis**  
 📊 Skilled with:  
-• Numpy  **Data Analysis**
-• Pandas  
-• Matplotlib  
-• Seaborn  
-🧮 Currently exploring: **Statistics** and **Machine Learning**
+Data analyis, Statistics, EDA, Feature extraction
+Languages :
+Python, Java(working with)
+🧮 Currently exploring: **Machine Learning**
 
 ---
 
