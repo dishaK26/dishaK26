@@ -1,9 +1,9 @@
 # Hi there, I'm Disha 👋
 
-🎓 **BTech CSE Pre-final Year Student**  
-🔍 Passionate about **Data Science** & **Data Analysis**  
+🎓 **BTech CSE final Year Student**  
+🔍 Passionate about **Data Science**,**Machine Learning** & **Data Analysis**   
 📊 Skilled with:  
-Data analyis, Statistics, EDA, Feature extraction
+Data analyis, Statistics, EDA, Feature extraction, business analyst                      
 Languages :
 Python, Java(working with)
 🧮 Currently exploring: **Machine Learning**
@@ -17,10 +17,12 @@ Python, Java(working with)
 
 - **Python Practice Projects**  
   *A collection of diverse Python mini-projects, sharpening core concepts and logic.*
-
----
-
-## 📈 What I'm Learning
+  
+## Competitions & Hackathons
+  ## 🥉in PITCH PULSE'26 by IEEE PRISM 2026
+  ## Top 40 out of 700+ teams in HackFluence 2026 by Techneeds IGDTUW
+  ## Qualified for Round 2 under VITTARTH 2.0 by IIT KHARAGPUR
+  
 
 Currently focused on expanding my understanding of statistical methods and machine learning algorithms, taking data-driven insights to the next level!
 
