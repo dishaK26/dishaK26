@@ -32,89 +32,12 @@ Currently, I'm exploring **LLMs, RAG, Agentic AI and MLOps**, with a focus on bu
 
 ## 🛠️ Languages & Tools
 
-<table>
-  <tr>
 
-    <!-- Languages -->
-    <td valign="top" width="20%">
-      <h3>Languages</h3>
 
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/><br><br>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/><br><br>
 
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-
-    </td>
-
-    <!-- AI / ML & GenAI -->
-    <td valign="top" width="20%">
-      <h3>AI / ML & GenAI</h3>
-
-      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/><br><br>
-
-      <img src="https://img.shields.io/badge/XGBoost-006600?style=for-the-badge" alt="XGBoost"/><br><br>
-
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/><br><br>
-
-      <img src="https://img.shields.io/badge/BERT-FF6F00?style=for-the-badge" alt="BERT"/><br><br>
-
-      <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers"/>
-
-    </td>
-
-    <!-- Databases & Vector Search -->
-    <td valign="top" width="20%">
-      <h3>Databases & Vector Search</h3>
-
-      <img src="https://img.shields.io/badge/Vector%20Databases-4F46E5?style=for-the-badge" alt="Vector Databases"/><br><br>
-
-      <img src="https://img.shields.io/badge/Vector%20Search-7C3AED?style=for-the-badge" alt="Vector Search"/>
-
-    </td>
-
-    <!-- Data & Visualization -->
-    <td valign="top" width="20%">
-      <h3>Data & Visualization</h3>
-
-      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/><br><br>
-
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/><br><br>
-
-      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/><br><br>
-
-      <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn"/><br><br>
-
-      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/><br><br>
-
-      <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/><br><br>
-
-      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/><br><br>
-
-      <img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge" alt="NLTK"/><br><br>
-
-      <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy"/>
-
-    </td>
-
-    <!-- Tools & Platforms -->
-    <td valign="top" width="20%">
-      <h3>Tools & Platforms</h3>
-
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/><br><br>
-
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/><br><br>
-
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/><br><br>
-
-      <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" alt="Ollama"/><br><br>
-
-      <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge" alt="REST APIs"/>
-
-    </td>
-
-  </tr>
-</table>
 
 
 **CURRENTLY EXPLORING**
@@ -243,6 +166,8 @@ An NLP-based ML application that classifies emails as **Spam or Ham** using TF-I
 
 <br><br>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dishaK26&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ### ✦ Learn by building. Build with purpose. ✦
 
 </div>
