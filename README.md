@@ -210,25 +210,25 @@ An NLP-based ML application that classifies emails as **Spam or Ham** using TF-I
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://linkedin.com/in/disha-khaneja">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
   
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:dishabpps@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
   
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/dishaK26">
 <img src="https://img.shields.io/badge/GitHub-My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VISITORS&style=for-the-badge&color=7C3AED" alt="Profile Visitors">
+<img src="https://komarev.com/ghpvc/?username=dishaK26&label=PROFILE%20VISITORS&style=for-the-badge&color=7C3AED" alt="Profile Visitors">
 
 <br><br>
 
