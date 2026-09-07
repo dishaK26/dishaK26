@@ -14,7 +14,7 @@
 
 ---
 
-## ✦ Hi, I'm Disha 👋
+## ✦ Hi, I'm Disha 
 
 I'm a **Computer Science undergraduate** passionate about **Data Science, Machine Learning and AI**.
 
@@ -84,7 +84,10 @@ Currently, I'm exploring **LLMs, RAG, Agentic AI and MLOps**, with a focus on bu
 
 ### AI-Powered Spam Email Detector
 
-**NLP → TF-IDF → Random Forest → Streamlit**
+![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge)
+![TF-IDF](https://img.shields.io/badge/TF--IDF-FF6B6B?style=for-the-badge)
+![Random Forest](https://img.shields.io/badge/Random%20Forest-2E8B57?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
 <br>
 
@@ -98,7 +101,7 @@ An NLP-based ML application that classifies emails as **Spam or Ham** using TF-I
 
 <br>
 
-<a href="YOUR_TRUSTIFY_REPOSITORY_URL">
+<a href="https://trustify-zimqjvqg5yrmclkhecarxv.streamlit.app/">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Trustify">
 </a>
 
@@ -114,53 +117,32 @@ An NLP-based ML application that classifies emails as **Spam or Ham** using TF-I
 
 # ✦ Achievements
 
-<div align="center">
+### 🏆 Highlights
+![SIH Internal Hackathon'26](https://img.shields.io/badge/First%20Place%25-SIH%20Internal%202026%20%7C%20Hackathon%20'26-45789D?style=for-the-badge)
 
-🏅 **Top 10%** — Summer Analytics 2026 · IIT Guwahati
+![Summer Analytics](https://img.shields.io/badge/Top%2010%25-Summer%20Analytics%202026%20%7C%20IIT%20Guwahati-FFB703?style=for-the-badge)
 
-<br>
+![Hackfluence](https://img.shields.io/badge/Top%2040-Hackfluence%20Hackathon%202026-8E44AD?style=for-the-badge)
 
-🏆 **Top 40** — Hackfluence Hackathon 2026
+![VITTARTH](https://img.shields.io/badge/Certificate%20of%20Merit-VITTARTH%20%7C%20IIT%20Kharagpur-2E86AB?style=for-the-badge)
 
-<br>
+![Pitch Pulse](https://img.shields.io/badge/🥈%20Second%20Runner--Up-Pitch%20Pulse%20%7C%20IEEE-1D3557?style=for-the-badge)
 
-🎖️ **Certificate of Merit** — VITTARTH Finance Quiz'26 · IIT Kharagpur
+![Stark AI](https://img.shields.io/badge/🌟%20Top%20Best%20Mentee-Stark%20AI%20%7C%20IGDTUW-457B9D?style=for-the-badge)
 
-<br>
-
-🥈 **Second Runner-Up** — Pitch Pulse · IEEE Prism 26
-
-<br>
-
-🌟 **Top Best Mentee** — Stark AI SSSC'26 · IGDTUW
-
-<br>
-
-💼 **ML Intern** — BeeSkilled
-
-</div>
-
----
+![BeeSkilled](https://img.shields.io/badge/ML%20Intern-BeeSkilled-264653?style=for-the-badge)
 
 # ✦ Currently Learning
 
 <div align="center">
 
-### 🧠 LLMs
-
-↓
-
-### 🔎 RAG
-
-↓
-
-### 🤖 Agentic AI
-
-↓
-
-### ⚙️ MLOps
-
-<br>
+![01 LLMs](https://img.shields.io/badge/01%20%7C%20LLMs-6C63FF?style=for-the-badge)
+→
+![02 RAG](https://img.shields.io/badge/02%20%7C%20RAG-7B61FF?style=for-the-badge)
+→
+![03 Agentic AI](https://img.shields.io/badge/03%20%7C%20Agentic%20AI-8B5CF6?style=for-the-badge)
+→
+![04 MLOps](https://img.shields.io/badge/04%20%7C%20MLOps-A855F7?style=for-the-badge)
 
 **From ML models → intelligent systems → deployable AI solutions.**
 
