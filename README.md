@@ -30,81 +30,92 @@ Currently, I'm exploring **LLMs, RAG, Agentic AI and MLOps**, with a focus on bu
 
 # ✦ Tech Stack
 
-<div align="center">
+## 🛠️ Languages & Tools
 
-### 🐍 Languages
+<table>
+  <tr>
 
-<svg width="90" height="90" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
-<path fill="#3776AB" d="M63.9 3c-31.3 0-29.3 13.6-29.3 13.6l.1 14.1h29.7v4.2H23.1S3 32.6 3 64.2s17.6 31.5 17.6 31.5h10.5V81.1s-.6-17.6 17.3-17.6h29.7s16.7.3 16.7-16.1V20.1S97.3 3 63.9 3z"/>
-<circle cx="47.5" cy="18.7" r="4.5" fill="#fff"/>
-<path fill="#FFD343" d="M64.1 125c31.3 0 29.3-13.6 29.3-13.6l-.1-14.1H63.6v-4.2h41.3s20.1 2.3 20.1-29.3S107.4 32.3 107.4 32.3H96.9v14.6s.6 17.6-17.3 17.6H49.9s-16.7-.3-16.7 16.1v27.3S30.7 125 64.1 125z"/>
-<circle cx="80.5" cy="109.3" r="4.5" fill="#fff"/>
-</svg>
+    <!-- Languages -->
+    <td valign="top" width="20%">
+      <h3>Languages</h3>
 
-   
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/><br><br>
 
-<svg width="90" height="90" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
-<path fill="#4479A1" d="M8 18h112v92H8z"/>
-<path fill="#fff" d="M25 39h78v10H25zm0 20h78v10H25zm0 20h50v10H25z"/>
-</svg>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/><br><br>
 
-<br><br>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 
-### 📊 Data Science & Machine Learning
+    </td>
 
-<svg width="70" height="70" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
-<rect width="128" height="128" rx="20" fill="#150458"/>
-<path fill="#fff" d="M25 33h78v12H25zm0 25h60v12H25zm0 25h78v12H25z"/>
-</svg>
+    <!-- AI / ML & GenAI -->
+    <td valign="top" width="20%">
+      <h3>AI / ML & GenAI</h3>
 
-   
+      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/><br><br>
 
-<svg width="70" height="70" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
-<rect width="128" height="128" rx="20" fill="#013243"/>
-<path fill="#fff" d="M25 32h78v12H25zm0 25h55v12H25zm0 25h70v12H25z"/>
-</svg>
+      <img src="https://img.shields.io/badge/XGBoost-006600?style=for-the-badge" alt="XGBoost"/><br><br>
 
-   
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/><br><br>
 
-<svg width="70" height="70" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
-<rect width="128" height="128" rx="20" fill="#F7931E"/>
-<path fill="#fff" d="M25 30h78v12H25zm0 24h62v12H25zm0 24h50v12H25z"/>
-</svg>
+      <img src="https://img.shields.io/badge/BERT-FF6F00?style=for-the-badge" alt="BERT"/><br><br>
 
-<br><br>
+      <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers"/>
 
-### 🛠️ Tools
+    </td>
 
-<svg width="65" height="65" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
-<circle cx="64" cy="64" r="60" fill="#F05032"/>
-<path fill="#fff" d="M64 25a39 39 0 1 0 0 78 39 39 0 0 0 0-78zm0 12a27 27 0 1 1 0 54 27 27 0 0 1 0-54z"/>
-</svg>
+    <!-- Databases & Vector Search -->
+    <td valign="top" width="20%">
+      <h3>Databases & Vector Search</h3>
 
-   
+      <img src="https://img.shields.io/badge/Vector%20Databases-4F46E5?style=for-the-badge" alt="Vector Databases"/><br><br>
 
-<svg width="65" height="65" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
-<circle cx="64" cy="64" r="60" fill="#181717"/>
-<path fill="#fff" d="M38 40l26 18 26-18v48l-26 18-26-18z"/>
-</svg>
+      <img src="https://img.shields.io/badge/Vector%20Search-7C3AED?style=for-the-badge" alt="Vector Search"/>
 
-   
+    </td>
 
-<svg width="65" height="65" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
-<rect width="128" height="128" rx="18" fill="#007ACC"/>
-<path fill="#fff" d="M25 38h78v12H25zm0 20h55v12H25zm0 20h65v12H25z"/>
-</svg>
+    <!-- Data & Visualization -->
+    <td valign="top" width="20%">
+      <h3>Data & Visualization</h3>
 
-</div>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/><br><br>
 
-<br>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/><br><br>
 
-<div align="center">
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/><br><br>
 
-**CORE FOCUS**
+      <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn"/><br><br>
 
-`Python` · `Machine Learning` · `NLP` · `SQL`
+      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/><br><br>
 
-<br><br>
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/><br><br>
+
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/><br><br>
+
+      <img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge" alt="NLTK"/><br><br>
+
+      <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy"/>
+
+    </td>
+
+    <!-- Tools & Platforms -->
+    <td valign="top" width="20%">
+      <h3>Tools & Platforms</h3>
+
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/><br><br>
+
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/><br><br>
+
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/><br><br>
+
+      <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" alt="Ollama"/><br><br>
+
+      <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge" alt="REST APIs"/>
+
+    </td>
+
+  </tr>
+</table>
+
 
 **CURRENTLY EXPLORING**
 
