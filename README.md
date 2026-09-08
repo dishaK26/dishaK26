@@ -7,6 +7,9 @@
 **Building with Agentic AI & scaling real-world solutions.**
 
 <br>
+<p align="center">
+  <img src="./assets/banner.png" alt="Disha - AI, Machine Learning & Agentic AI" width="100%">
+</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=I+learn+by+building.;I+turn+data+into+decisions.;I+turn+problems+into+ML+applications.;Currently+exploring+LLMs%2C+RAG+%26+Agentic+AI." alt="Typing animation">
 
