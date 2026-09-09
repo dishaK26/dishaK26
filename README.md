@@ -105,7 +105,7 @@ An NLP-based ML application that classifies emails as **Spam or Ham** using TF-I
 
 <br>
 
-<a href="https://github.com/trustify">
+<a href="https://github.com/dishaK26/Trustify">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Trustify">
 </a>
 
