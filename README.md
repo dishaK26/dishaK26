@@ -105,13 +105,13 @@ An NLP-based ML application that classifies emails as **Spam or Ham** using TF-I
 
 <br>
 
-<a href="https://trustify-zimqjvqg5yrmclkhecarxv.streamlit.app/">
+<a href="https://github.com/trustify">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Trustify">
 </a>
 
  
 
-<a href="YOUR_TRUSTIFY_DEPLOYED_URL">
+<a href="https://trustify-zimqjvqg5yrmclkhecarxv.streamlit.app/">
 <img src="https://img.shields.io/badge/LIVE_DEMO-7C3AED?style=for-the-badge" alt="Live Demo">
 </a>
 
